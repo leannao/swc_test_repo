@@ -1,4 +1,9 @@
 test
+HEAD
 this is an exercise
 i am in master making changes to something modified in exercise
 NOW making changes on the master branch
+THESE ARE EXERCISE CHANGESSSS
+ exercise
+Ok, now these merged changes work. 
+
