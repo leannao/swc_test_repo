@@ -1,1 +1,3 @@
 test
+this is an exercise
+i am in master making changes to something modified in exercise
